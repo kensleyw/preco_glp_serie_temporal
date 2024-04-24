@@ -16,6 +16,8 @@ O projeto visa produzir os seguintes relatórios:
 - Artigo sobre o uso da biblioteca Prophet para previsão de séries temporais.
 - Relatório completo das análises realizadas e das previsões obtidas neste projeto.
 
+![imagem.png](preco_gas_2004_a_2024.png)
+
 ## Fontes de Dados Utilizadas
 
 - **Série Histórica de Preços de GLP:** [ANP - Agência Nacional do Petróleo](https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/serie-historica-de-precos-de-combustiveis)
